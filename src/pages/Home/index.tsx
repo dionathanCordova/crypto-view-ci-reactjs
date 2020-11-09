@@ -46,7 +46,6 @@ const ALL_PRICES: Price = {
 }
 
 const ALL_SELECTED: Price = {
-
 }
 
 interface ActiveProp {
