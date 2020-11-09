@@ -1,2 +1,4 @@
 chart: https://br.tradingview.com/HTML5-stock-forex-bitcoin-charting-library/
 https://github.com/tradingview/lightweight-charts
+
+https://www.cryptocompare.com/coins/list/USD/1
