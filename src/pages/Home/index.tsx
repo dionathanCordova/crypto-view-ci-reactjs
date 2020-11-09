@@ -45,6 +45,10 @@ const ALL_PRICES: Price = {
    BCH: { description: 'Bitcoin Cash', oldPrice: 0, currentPrice: 0 },
 }
 
+const ALL_SELECTED: Price = {
+
+}
+
 interface ActiveProp {
    [key: string] : { description: string, oldPrice: number, currentPrice: number };
 }
