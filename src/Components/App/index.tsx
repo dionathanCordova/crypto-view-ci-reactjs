@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import Chart from '../Chart';
-import { Header } from '../Header';
+import { Header } from '../OldHeader';
 import './index.css';
 
 function App() {

@@ -76,15 +76,15 @@ const Chart: React.FC<ChartProps> = (props) => {
          width: containerRef.current.clientWidth,
          height: containerRef.current.clientHeight,
          layout: {
-            backgroundColor: '#253248',
+            backgroundColor: '#000',
             textColor: 'rgba(255, 255, 255, 0.9)'
          },
          grid: {
             vertLines: {
-               color: '#334158',
+               color: '#000',
             },
             horzLines: {
-               color: '#334158',
+               color: '#000',
             }
          },
          crosshair: {
